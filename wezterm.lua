@@ -8,7 +8,7 @@ local config = wezterm.config_builder()
 config = {
 	color_scheme = "Catppuccin Macchiato (Gogh)",
 	font = wezterm.font("MesloLGS NF"),
-	font_size = 16,
+	font_size = 19,
 
 	-- Set initial window size
 	initial_cols = 120,
